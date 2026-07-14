@@ -20,4 +20,4 @@ This is a simple rule-based chatbot developed in Python as part of the CodeAlpha
 
 ## Author
 
-Sakthinigesh
+Sakthi Nigesh P M
